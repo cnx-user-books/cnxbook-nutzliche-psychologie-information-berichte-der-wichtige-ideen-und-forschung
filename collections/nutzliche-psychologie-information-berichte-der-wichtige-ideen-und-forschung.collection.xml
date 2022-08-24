@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11161</md:content-id>  <md:title>Nützliche Psychologie Information (Berichte der Wichtige Ideen und Forschung)</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>de</md:language>      <md:uuid>a847b1a5-1edb-4a9c-8deb-8497827b6740</md:uuid>
-<md:slug>nutzliche-psychologie-information-berichte-der-wichtige-ideen-und-forschung</md:slug>
-</metadata>  <col:content>          <col:module document="m33308"/>                            <col:module document="m33309"/>                            <col:module document="m33310"/>                            <col:module document="m33311"/>                            <col:module document="m33312"/>                            <col:module document="m33313"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mark Pettinelli">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11161</md:content-id>
+    <md:title>N&#xFC;tzliche Psychologie Information (Berichte der Wichtige Ideen und Forschung)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>de</md:language>
+    <md:uuid>a847b1a5-1edb-4a9c-8deb-8497827b6740</md:uuid>
+    <md:slug>nutzliche-psychologie-information-berichte-der-wichtige-ideen-und-forschung</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33308"/>
+    <col:module document="m33309"/>
+    <col:module document="m33310"/>
+    <col:module document="m33311"/>
+    <col:module document="m33312"/>
+    <col:module document="m33313"/>
+  </col:content>
+</col:collection>
